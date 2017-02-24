@@ -651,8 +651,8 @@
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
+            "paddingBottom": "2",
+            "timeout": "5",
             "slides": [
               {
                 "active": false,
@@ -688,7 +688,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": false,
                 "title": "BOOTSTRAP SLIDER",
                 "showText": false,
