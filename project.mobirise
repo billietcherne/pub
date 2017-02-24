@@ -650,8 +650,8 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "timeout": "5",
             "slides": [
               {
