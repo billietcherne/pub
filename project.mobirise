@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-17_1456",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -363,7 +363,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/an-2000x1414.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/an-1-2000x1414.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
