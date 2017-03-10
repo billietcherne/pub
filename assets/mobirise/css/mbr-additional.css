@@ -484,6 +484,10 @@ h6,
   color: #000000;
   text-align: center;
 }
+#social-buttons4-n .mbr-section-title,
+#social-buttons4-n .btn-social {
+  color: #fff;
+}
 
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
