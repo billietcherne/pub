@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PUB 2017",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -723,17 +723,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/spread-3-recovered-800x628.jpg",
                 "image": "@PROJECT_PATH@/assets/images/spread-3-recovered.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/spread-4-recovered-recovered-800x628.jpg",
-                "image": "@PROJECT_PATH@/assets/images/spread-4-recovered-recovered.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -813,7 +803,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/spread-11-recovered-recovered-800x628.jpg",
                 "image": "@PROJECT_PATH@/assets/images/spread-11-recovered-recovered.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
