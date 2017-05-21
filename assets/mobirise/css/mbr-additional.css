@@ -5,7 +5,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -475,14 +474,12 @@ h6,
 #menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header5-5 .mbr-section-title {
-  color: #ffffff;
-  text-align: right;
-  font-family: 'Arimo', sans-serif;
-  font-size: 60px;
+#header5-v .mbr-section-title {
+  color: #000;
+  text-align: center;
 }
-#header5-5 .mbr-section-lead {
-  color: #ffffff;
+#header5-v .mbr-section-lead {
+  color: #9c9a9a;
   text-align: center;
 }
 #social-buttons4-n .mbr-section-title,
