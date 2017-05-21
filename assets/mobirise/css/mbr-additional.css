@@ -486,10 +486,6 @@ h6,
 #social-buttons4-n .btn-social {
   color: #fff;
 }
-#msg-box3-t .mbr-section-title,
-#msg-box3-t p {
-  color: #000;
-}
 
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
@@ -620,10 +616,6 @@ h6,
 #menu-e .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box3-s .mbr-section-title,
-#msg-box3-s p {
-  color: #000;
-}
 
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
@@ -685,5 +677,68 @@ h6,
 }
 #menu-h .link[aria-expanded="true"],
 #menu-h .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+
+#menu-y .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-y .navbar-caption {
+  color: #ffffff;
+  font-family: 'Arimo', sans-serif;
+}
+#menu-y .navbar-toggler {
+  color: #000000;
+}
+#menu-y .close-icon::before,
+#menu-y .close-icon::after {
+  background-color: #000000;
+}
+#menu-y .link,
+#menu-y .dropdown-item {
+  color: #000000;
+}
+#menu-y .link {
+  font-size: 0.75rem;
+}
+#menu-y .dropdown-item,
+#menu-y .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-y .link:hover,
+#menu-y .dropdown-item:hover,
+#menu-y .link:focus,
+#menu-y .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-y .link[aria-expanded="true"],
+#menu-y .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-y .nav-dropdown-sm .link:focus,
+#menu-y .nav-dropdown-sm .link:hover,
+#menu-y .nav-dropdown-sm .dropdown-item:focus,
+#menu-y .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-y .navbar,
+#menu-y .nav-dropdown-sm,
+#menu-y .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-y .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-y .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-y .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-y .bg-color.transparent.opened .link:hover,
+#menu-y .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-y .link[aria-expanded="true"],
+#menu-y .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
