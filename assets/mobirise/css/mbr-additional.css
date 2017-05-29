@@ -548,6 +548,10 @@ h6,
   color: #000000;
 }
 
+#header3-16 .mbr-section-title,
+#header3-16 .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -609,6 +613,10 @@ h6,
 #menu-h .link[aria-expanded="true"],
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
 }
 
 #menu-y .hide-buttons .nav-btn {
