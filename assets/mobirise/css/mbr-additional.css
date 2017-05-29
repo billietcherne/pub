@@ -617,6 +617,10 @@ h6,
   text-align: center;
 }
 
+#header3-19 .mbr-section-title,
+#header3-19 .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-y .hide-buttons .nav-btn {
   display: none !important;
 }
