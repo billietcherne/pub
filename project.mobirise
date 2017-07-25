@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PUB 2017",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
